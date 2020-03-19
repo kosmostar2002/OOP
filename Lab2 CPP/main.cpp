@@ -15,14 +15,23 @@ int main() {
 	txt.addToText(txtLine2);
 	txt.addToText(txtLine3);
 	txt.getContent();
-	cout << "\nPerent of voices: " <<  txt.percVoicr() << "\n" << endl;
-	cout << "Text after deling all double spaces:" << endl;
+	cout << "\nPercent of voices: " <<  txt.percVoicr() << "\n" << endl;
+	cout << "Text after dealing all double spaces:" << endl;
 	txt.delAllDS();
 	txt.getContent();
 
-	cout << "\nText after deling all start/end spaces:" << endl;
+	cout << "\nText after dealing all start/end spaces:" << endl;
 	txt.delAllSES();
 	txt.getContent();
+
+	cout << "\nDealing one line:" << endl;
+	txt.delLine();
+	txt.getContent();
+
+	cout << "\nClear text:" << endl;
+	txt.clearText();
+	txt.getContent();
+
 }
 
 
