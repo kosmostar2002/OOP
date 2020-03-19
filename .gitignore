@@ -390,3 +390,5 @@ LAb1/C++/ConsoleApplication1/ConsoleApplication1.sln
 LAb1/C++/ConsoleApplication1/ConsoleApplication1.vcxproj
 Lab2 C#/Lab2/Lab2.csproj
 Lab2 C#/Lab2/Lab2.sln
+*.sln
+*.csproj
