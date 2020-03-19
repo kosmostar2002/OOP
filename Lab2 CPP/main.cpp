@@ -16,6 +16,7 @@ int main() {
 	txt.addToText(txtLine3);
 	txt.getContent();
 	cout << "\nPercent of voices: " <<  txt.percVoicr() << "\n" << endl;
+	cout << "Len of the shortest line: " << txt.getShortestLen() << "\n" << endl;
 	cout << "Text after dealing all double spaces:" << endl;
 	txt.delAllDS();
 	txt.getContent();

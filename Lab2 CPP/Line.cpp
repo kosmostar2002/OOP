@@ -18,7 +18,7 @@ void Line::getContest() {
 	cout << '\n';
 }
 
-int Line::voiceCount() {
+int Line::voicedCount() {
 	int count = 0;
 	for (char element : this->line) {
 		if ((element != 'a') and (element != 'o') and (element != 'u') and (element != 'y') and
@@ -26,7 +26,7 @@ int Line::voiceCount() {
 	}
 	return count;
 }
-int Line::voicedCount() {
+int Line::voiceCount() {
 	int count = 0;
 	for (char element : this->line) {
 		if (((element == 'a') or (element == 'o') or (element == 'u') or (element == 'y') or
@@ -49,6 +49,6 @@ void Line::deleteDoubleSpaces() {
 void Line::delStartEndSpaces() {
 	if (this->line[0] == ' ')
 		this->line.erase(this->line.begin());
-	if (this->line[3] == ' ')
+	if (this->line[this->line.size()-1] == ' ')
 		this->line.pop_back();
 }
