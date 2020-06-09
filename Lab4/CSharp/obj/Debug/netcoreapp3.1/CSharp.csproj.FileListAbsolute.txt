@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\obj\Debug\netcoreapp3.1\CSharp.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\ASUS\Documents\GitHub\OOP\Lab4\CPP\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
