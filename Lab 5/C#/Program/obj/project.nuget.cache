@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lb6oYw5nVk5D6WjR/o0fJkVuv6KpIGWQ/tXzmQazU4cxhYP0Ad5GH9hfqmiNPeCWfvR3nQW/EzlVHPNVVHzrBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\OOP-2.0\\Lab 5\\C#\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
