@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\bin\Debug\netcoreapp3.1\MainFile.exe
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\bin\Debug\netcoreapp3.1\MainFile.deps.json
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\bin\Debug\netcoreapp3.1\MainFile.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\bin\Debug\netcoreapp3.1\MainFile.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\bin\Debug\netcoreapp3.1\MainFile.dll
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\bin\Debug\netcoreapp3.1\MainFile.pdb
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\obj\Debug\netcoreapp3.1\MainFile.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\obj\Debug\netcoreapp3.1\MainFile.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\obj\Debug\netcoreapp3.1\MainFile.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\obj\Debug\netcoreapp3.1\MainFile.dll
+C:\Users\ASUS\Documents\GitHub\OOP\Lan3\ConsoleApp1\obj\Debug\netcoreapp3.1\MainFile.pdb
