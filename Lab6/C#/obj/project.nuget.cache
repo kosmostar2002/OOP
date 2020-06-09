@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmE/fj1D57PsZdC/lyXRLC/vTQjEcIsfbLrX3Q/qavm2DFcQY1gu0Za5KSED0qBLm2d7mYIHzd2L/qTFk7lwoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Lab6\\C#\\Exception.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
