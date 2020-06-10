@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cH6/qkXCWhmDGAOpLOiYXdk1eUSvzEFMsCf6xRk4v6MPEy/LZAqOA3V9AHLlQI/hNAa6JxL/ADVeDLiDMER+Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Events\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
